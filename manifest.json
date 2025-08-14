@@ -2,7 +2,7 @@
     "name": "SummaRead",
     "short_name": "SummaRead",
     "description": "SummaRead...",
-    "start_url": "/index.html",
+    "start_url": "/pwa_maker/index.html",
     "display": "standalone",
     "background_color": "#1A1A1A",
     "theme_color": "#2196F3",
@@ -30,4 +30,5 @@
         "purpose": "maskable"
     }
     ]
+
 }
